@@ -1,0 +1,6 @@
+opencv==4.4
+pyrealsense2==2.36
+numpy>=1.13
+pathlib==1.0.1
+PyQt5==5.9.2
+python-vlc==3.0.11115
